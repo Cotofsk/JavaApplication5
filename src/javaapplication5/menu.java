@@ -5,11 +5,14 @@
  */
 package javaapplication5;
 
+import javaapplication5.newpackage2.ventanaprueba;
+
 /**
  *
  * @author CotoF
  */
 public class menu extends javax.swing.JFrame {
+    ventanaprueba vp;
 
     /**
      * Creates new form menu
