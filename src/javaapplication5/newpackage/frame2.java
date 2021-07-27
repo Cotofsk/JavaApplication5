@@ -11,6 +11,7 @@ package javaapplication5.newpackage;
  */
 public class frame2 extends javax.swing.JFrame {
 
+    frameprueba fp;
     /**
      * Creates new form frame2
      */
