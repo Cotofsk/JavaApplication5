@@ -11,6 +11,8 @@ package javaapplication5.newpackage;
  */
 public class frame2 extends javax.swing.JFrame {
 
+    otroframe vp;
+    
     /**
      * Creates new form frame2
      */
