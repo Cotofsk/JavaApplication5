@@ -5,12 +5,14 @@
  */
 package javaapplication5;
 
+import javaapplication5.newpackage.frame;
+
 /**
  *
  * @author CotoF
  */
 public class menu extends javax.swing.JFrame {
-
+    frame fr;
     /**
      * Creates new form menu
      */
