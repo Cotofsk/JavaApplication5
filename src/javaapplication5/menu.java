@@ -5,6 +5,8 @@
  */
 package javaapplication5;
 
+import javaapplication5.newpackage.frame;
+
 
 
 /**
@@ -12,6 +14,8 @@ package javaapplication5;
  * @author CotoF
  */
 public class menu extends javax.swing.JFrame {
+    
+   frame fr;
 
     
     
